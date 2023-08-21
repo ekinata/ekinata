@@ -1,4 +1,4 @@
-# Greetings! 🌟
+# EN - Greetings! 🌟
 
 I proudly introduce myself as an adept full-stack developer, with a lifelong ardor for the realm of coding, ignited during the early chapters of my childhood.
 
@@ -29,3 +29,37 @@ Connect with me on social media and explore my work:
 📝 [Medium](https://medium.com/@ekinatamuallaoglu): Exploring thoughts and experiences in the realm of technology.
 
 And don't forget to visit my website: [ekinmuallaoglu.fun](https://ekinmuallaoglu.fun/) to learn more about my projects and endeavors.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# TR - Merhaba! 🌟
+
+Kendimi, çocukluğumun erken dönemlerinde alevlenen, kod dünyasına ömür boyu bir ilgiyle, usta bir tam yığın geliştirici olarak gururla tanıtıyorum.
+
+## Erken Başlangıçlar 🌱
+
+10 yaşından itibaren, yazılım geliştirme alanının sunabileceği sınırsız ufuklardan tamamen büyülenmiş hissettim.
+
+## Tutku Alevleniyor 🚀
+
+Mantık ve yaratıcılığın dijital çözümler üretirken oluşturduğu senfoni, yolculuğumun temel taşı oldu. Her kod satırıyla, teknolojiyi aracı olarak kullanarak yeniliklerin tuvalini boyamak için çabalıyorum.
+
+## Kodlama Ustası 🎨
+
+Zamanla, kodlama becerilerim ön uç ve arka uç yeteneklerinin harmonik bir karışımına dönüştü. Karmaşık arka plan mekanizmasını yönetirken sorunsuz kullanıcı deneyimlerini düzenlemekte yeteneklerimi geliştirdim.
+
+Geleceği kodlayalım, bir kod satırıyla birlikte! 🎉💻
+
+---
+
+Benimle sosyal medya üzerinden iletişime geçin ve çalışmalarımı keşfedin:
+
+🎥 [YouTube](https://www.youtube.com/channel/UC6Vx-VmLt0mArAITMggF3WA): Kod dünyasıyla ilgili görüşler ve öğreticiler paylaşıyorum.
+
+📸 [Instagram](https://www.instagram.com/500.internal/): Kodlama yolculuğumun perde arkasını yakalıyorum.
+
+🐦 [Twitter](https://twitter.com/atamualla): Teknoloji ve geliştirmeyle ilgili sohbet etmek için bağlantı kurabiliriz.
+
+📝 [Medium](https://medium.com/@ekinatamuallaoglu): Teknoloji dünyasındaki düşünceleri ve deneyimleri keşfediyorum.
+
+Ve web sitemi ziyaret etmeyi unutmayın: [ekinmuallaoglu.fun](https://ekinmuallaoglu.fun/) projelerim ve çabalarım hakkında daha fazla bilgi edinin.
