@@ -1,8 +1,8 @@
 ## 🌍 Diller / Languages / Sprachen / Jazyky
-### 🇹🇷 Ben sadece Türkçe ve İngilizce konuşabiliyorum ama yine de bu readme dosyası dört dilde yazıldı. Nasıl rahat ediyorsan öyle tanışabilelim diye... 👍
-### 🇺🇸 I can only speak Turkish and English, but still, this readme file has been written in four languages. However you feel comfortable, let's introduce ourselves that way... 👍
-### 🇩🇪 Ich kann nur Türkisch und Englisch sprechen, aber trotzdem wurde diese Readme-Datei in vier Sprachen verfasst. Wie auch immer du dich wohlfühlst, können wir uns so vorstellen... 👍
-### 🇨🇿 Mluvím pouze turecky a anglicky, ale i tak byl tento soubor README napsán ve čtyřech jazycích. Jak se cítíš pohodlně, tak se seznámme... 👍
+### 🇹🇷 - Ben sadece Türkçe ve İngilizce konuşabiliyorum ama yine de bu readme dosyası dört dilde yazıldı. Nasıl rahat ediyorsan öyle tanışabilelim diye... 👍
+### 🇺🇸 - I can only speak Turkish and English, but still, this readme file has been written in four languages. However you feel comfortable, let's introduce ourselves that way... 👍
+### 🇩🇪 - Ich kann nur Türkisch und Englisch sprechen, aber trotzdem wurde diese Readme-Datei in vier Sprachen verfasst. Wie auch immer du dich wohlfühlst, können wir uns so vorstellen... 👍
+### 🇨🇿 - Mluvím pouze turecky a anglicky, ale i tak byl tento soubor README napsán ve čtyřech jazycích. Jak se cítíš pohodlně, tak se seznámme... 👍
 
 
 ---
