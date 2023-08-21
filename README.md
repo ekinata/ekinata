@@ -1,9 +1,5 @@
-## 🌍 Diller / Languages / Sprachen / Jazyky
-### 🇹🇷 - Ben sadece Türkçe ve İngilizce konuşabiliyorum ama yine de bu readme dosyası dört dilde yazıldı. Nasıl rahat ediyorsan öyle tanışabilelim diye... 👍
-### 🇺🇸 - I can only speak Turkish and English, but still, this readme file has been written in four languages. However you feel comfortable, let's introduce ourselves that way... 👍
-### 🇩🇪 - Ich kann nur Türkisch und Englisch sprechen, aber trotzdem wurde diese Readme-Datei in vier Sprachen verfasst. Wie auch immer du dich wohlfühlst, können wir uns so vorstellen... 👍
-### 🇨🇿 - Mluvím pouze turecky a anglicky, ale i tak byl tento soubor README napsán ve čtyřech jazycích. Jak se cítíš pohodlně, tak se seznámme... 👍
-
+## 🌍 Diller / Languages / Sprachen / Jazyky 👍
+### 🇹🇷 / 🇺🇸 / 🇩🇪 / 🇨🇿
 
 ---
 
@@ -44,7 +40,7 @@ Projelerim ve çalışmalarım hakkında daha fazla bilgi edinmek isterseniz [we
 ---
 
 
-#İngilizce / English / Englisch / Angličtina
+# İngilizce / English / Englisch / Angličtina
 # Hello, I'm Ekin Muallaoğlu! 👋
 
 Hello! I'm Ekin Muallaoğlu. I'm a full-stack developer with a passion for the world of software. I've gained experience in a wide range of languages and technologies, allowing me to work on diverse projects.
@@ -144,7 +140,9 @@ Rád sdílím svoji vášeň pro software a své zkušenosti se společenstvím.
 
 Pokud byste chtěli vědět více o mých projektech a pracích, můžete navštívit [moje webové stránky](https://ekinmuallaoglu.fun/).
 
----
+
 
 Pokud máte zájem o spolupráci nebo chcete se mnou navázat kontakt, neváhejte mě kontaktovat na e-mailu [ekinatamuallaoglu@gmail.com](mailto:ekinatamuallaoglu@gmail.com).
 
+
+---
