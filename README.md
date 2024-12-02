@@ -28,7 +28,7 @@ Yazılıma olan tutkumu ve deneyimlerimi paylaşmaktan keyif alıyorum. Sosyal m
 
 ## Web Sitem 🌐
 
-Projelerim ve çalışmalarım hakkında daha fazla bilgi edinmek isterseniz [web sitemi ziyaret edebilirsiniz](https://ekin.kim/).
+Projelerim ve çalışmalarım hakkında daha fazla bilgi edinmek isterseniz [web sitemi ziyaret edebilirsiniz](https://ekinatamuallaoglu.com.tr/).
 
 
 
@@ -62,7 +62,7 @@ I enjoy sharing my passion for software and experiences with the community. You 
 
 ## My Website 🌐
 
-If you'd like to learn more about my projects and work, you can visit [my website](https://ekin.kim/).
+If you'd like to learn more about my projects and work, you can visit [my website](https://ekinatamuallaoglu.com.tr/).
 
 
 
@@ -96,7 +96,7 @@ Me gusta compartir mi pasión por el software y mis experiencias con la comunida
 
 ## Mi Sitio Web 🌐
 
-Si deseas saber más sobre mis proyectos y trabajos, puedes visitar [mi sitio web](https://ekin.kim/).
+Si deseas saber más sobre mis proyectos y trabajos, puedes visitar [mi sitio web](https://ekinatamuallaoglu.com.tr/).
 
 Si estás interesado en una colaboración o deseas ponerte en contacto, no dudes en enviarme un correo electrónico a [ekinatamuallaoglu@gmail.com](mailto:ekinatamuallaoglu@gmail.com).
 
